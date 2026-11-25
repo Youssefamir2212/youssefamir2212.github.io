@@ -1,4 +1,4 @@
-:root{--vh:780px}
+:root{--vh:max(100vh,860px)}
 html,body,#root{margin:0}
 @font-face{font-family:"PFMont";src:url("./Montserrat.ttf") format("truetype");font-weight:100 900;font-display:swap}
 :root{--bg:#0f0e0e;--panel:#171514;--panel2:#1d1a18;--line:rgba(255,255,255,.12);--text:#efe9e2;--muted:#a39b93;--acc:#ff7a1a;--acc2:#ffb26b;--r:18px;--max:1160px}
